@@ -5,3 +5,4 @@ Treinamento git/github e processos
 Nome: Bruno Vasconcelos
 
 Resolução de conflitos
+ano: 2019!
